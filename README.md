@@ -1,2 +1,3 @@
 this is an app that allows the user to add different types of workouts. the app will ask you for the type resistance or cardio and will prompt you with more questions based on your answers if you pick resistance you get to input your type of workout and then add the weight time for each rep and how many reps you will be doing. if you pick the cardio option you will be prompted with the distance that you did and the ammount of time you did your cardio you can also specify what type of cardio you did.
 after you have entered your desired work out you can go to the main dash board and you will shown the workouts you have entered in a chart format.
+![fitness dashboard](fitness.jpg)
